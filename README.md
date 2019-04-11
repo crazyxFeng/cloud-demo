@@ -1,2 +1,2 @@
 # cloud-demo
-springCloudDemo
+springCloud的demo项目，仅作参考
