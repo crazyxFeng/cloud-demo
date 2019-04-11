@@ -1,0 +1,4 @@
+com\demo\xf\client\ClientApplication.class
+com\demo\xf\client\service\impl\HelloServiceImpl.class
+com\demo\xf\client\service\HelloService.class
+com\demo\xf\client\web\HelloController.class
